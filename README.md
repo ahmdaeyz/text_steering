@@ -1,15 +1,10 @@
-# text_steering
+# Text Steering
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/36048466/184412682-08ebe5fe-8b0a-4093-9d39-a3ff41010137.mov
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This repo is a demonstation of combining text drawing and steering behaviors to create cool physical like animations. It utilizes [Radiance by The Flame engine](https://github.com/flame-engine/radiance).
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
